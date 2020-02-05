@@ -1,0 +1,24 @@
+{
+  "gamepacks": [
+    {
+      "name": "JoJo",
+      "backgroundImage": "img/bg/jojo.png",
+      "backCard": "img/cards/jojo/card.png",
+      "mafiaCard": "img/cards/jojo/mafia.png",
+      "doctorCard": "img/cards/jojo/doctor.jpg",
+      "seekerCard": "img/cards/jojo/seeker.png",
+      "citizenCards": "img/cards/jojo/citizen1.png"
+    },
+    {
+      "name": "Classic Mafia",
+      "backgroundImage": "img/bg/classic.jpg",
+      "backCard": "img/cards/classic/back.png",
+      "mafiaCard": "img/cards/classic/mafia.png",
+      "doctorCard": "img/cards/classic/doctor.png",
+      "seekerCard": "img/cards/classic/seeker.png",
+      "citizenCards":
+        "img/cards/classic/citizen.png"
+
+    }
+  ]
+}
